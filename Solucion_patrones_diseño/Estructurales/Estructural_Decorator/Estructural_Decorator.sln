@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estructural_Decorator", "Estructural_Decorator.csproj", "{5606C9BC-0164-4ED7-BD18-6C4297FAE099}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5606C9BC-0164-4ED7-BD18-6C4297FAE099}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5606C9BC-0164-4ED7-BD18-6C4297FAE099}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5606C9BC-0164-4ED7-BD18-6C4297FAE099}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5606C9BC-0164-4ED7-BD18-6C4297FAE099}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60A6E314-247A-4EE8-AD13-227DA10B4899}
+	EndGlobalSection
+EndGlobal

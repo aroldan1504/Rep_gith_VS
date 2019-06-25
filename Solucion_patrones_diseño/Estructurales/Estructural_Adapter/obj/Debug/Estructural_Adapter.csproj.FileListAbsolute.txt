@@ -1,0 +1,6 @@
+C:\Users\GTIM\Desktop\my UT\7mo Cuatri\Programacion de app\2do parcial\Estructural_Adapter\bin\Debug\Estructural_Adapter.exe.config
+C:\Users\GTIM\Desktop\my UT\7mo Cuatri\Programacion de app\2do parcial\Estructural_Adapter\bin\Debug\Estructural_Adapter.exe
+C:\Users\GTIM\Desktop\my UT\7mo Cuatri\Programacion de app\2do parcial\Estructural_Adapter\bin\Debug\Estructural_Adapter.pdb
+C:\Users\GTIM\Desktop\my UT\7mo Cuatri\Programacion de app\2do parcial\Estructural_Adapter\obj\Debug\Estructural_Adapter.csproj.CoreCompileInputs.cache
+C:\Users\GTIM\Desktop\my UT\7mo Cuatri\Programacion de app\2do parcial\Estructural_Adapter\obj\Debug\Estructural_Adapter.exe
+C:\Users\GTIM\Desktop\my UT\7mo Cuatri\Programacion de app\2do parcial\Estructural_Adapter\obj\Debug\Estructural_Adapter.pdb

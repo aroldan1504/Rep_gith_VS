@@ -1,0 +1,6 @@
+C:\Users\GTIM\source\repos\Comportamiento_Mediator\bin\Debug\Comportamiento_Mediator.exe.config
+C:\Users\GTIM\source\repos\Comportamiento_Mediator\bin\Debug\Comportamiento_Mediator.exe
+C:\Users\GTIM\source\repos\Comportamiento_Mediator\bin\Debug\Comportamiento_Mediator.pdb
+C:\Users\GTIM\source\repos\Comportamiento_Mediator\obj\Debug\Comportamiento_Mediator.csproj.CoreCompileInputs.cache
+C:\Users\GTIM\source\repos\Comportamiento_Mediator\obj\Debug\Comportamiento_Mediator.exe
+C:\Users\GTIM\source\repos\Comportamiento_Mediator\obj\Debug\Comportamiento_Mediator.pdb

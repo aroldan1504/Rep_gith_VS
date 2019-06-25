@@ -1,0 +1,14 @@
+C:\Users\GTIM\source\repos\Comportamiento_Interpreter\obj\Debug\Comportamiento_Interpreter.csprojAssemblyReference.cache
+C:\Users\GTIM\source\repos\Comportamiento_Interpreter\obj\Debug\Comportamiento_Interpreter.csproj.CoreCompileInputs.cache
+C:\Users\GTIM\source\repos\Comportamiento_Interpreter\bin\Debug\Comportamiento_Interpreter.exe.config
+C:\Users\GTIM\source\repos\Comportamiento_Interpreter\bin\Debug\Comportamiento_Interpreter.exe
+C:\Users\GTIM\source\repos\Comportamiento_Interpreter\bin\Debug\Comportamiento_Interpreter.pdb
+C:\Users\GTIM\source\repos\Comportamiento_Interpreter\obj\Debug\Comportamiento_Interpreter.exe
+C:\Users\GTIM\source\repos\Comportamiento_Interpreter\obj\Debug\Comportamiento_Interpreter.pdb
+C:\Users\GTIM\Desktop\my UT\7mo Cuatri\Programacion de app\2do parcial\Comportamiento_Interpreter\bin\Debug\Comportamiento_Interpreter.exe.config
+C:\Users\GTIM\Desktop\my UT\7mo Cuatri\Programacion de app\2do parcial\Comportamiento_Interpreter\bin\Debug\Comportamiento_Interpreter.exe
+C:\Users\GTIM\Desktop\my UT\7mo Cuatri\Programacion de app\2do parcial\Comportamiento_Interpreter\bin\Debug\Comportamiento_Interpreter.pdb
+C:\Users\GTIM\Desktop\my UT\7mo Cuatri\Programacion de app\2do parcial\Comportamiento_Interpreter\obj\Debug\Comportamiento_Interpreter.csprojAssemblyReference.cache
+C:\Users\GTIM\Desktop\my UT\7mo Cuatri\Programacion de app\2do parcial\Comportamiento_Interpreter\obj\Debug\Comportamiento_Interpreter.csproj.CoreCompileInputs.cache
+C:\Users\GTIM\Desktop\my UT\7mo Cuatri\Programacion de app\2do parcial\Comportamiento_Interpreter\obj\Debug\Comportamiento_Interpreter.exe
+C:\Users\GTIM\Desktop\my UT\7mo Cuatri\Programacion de app\2do parcial\Comportamiento_Interpreter\obj\Debug\Comportamiento_Interpreter.pdb

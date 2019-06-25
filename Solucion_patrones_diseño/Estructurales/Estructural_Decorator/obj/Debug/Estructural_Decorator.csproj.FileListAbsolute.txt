@@ -1,0 +1,6 @@
+C:\Users\GTIM\Desktop\my UT\7mo Cuatri\Programacion de app\2do parcial\Estructural_Decorator\bin\Debug\Estructural_Decorator.exe.config
+C:\Users\GTIM\Desktop\my UT\7mo Cuatri\Programacion de app\2do parcial\Estructural_Decorator\bin\Debug\Estructural_Decorator.exe
+C:\Users\GTIM\Desktop\my UT\7mo Cuatri\Programacion de app\2do parcial\Estructural_Decorator\bin\Debug\Estructural_Decorator.pdb
+C:\Users\GTIM\Desktop\my UT\7mo Cuatri\Programacion de app\2do parcial\Estructural_Decorator\obj\Debug\Estructural_Decorator.csproj.CoreCompileInputs.cache
+C:\Users\GTIM\Desktop\my UT\7mo Cuatri\Programacion de app\2do parcial\Estructural_Decorator\obj\Debug\Estructural_Decorator.exe
+C:\Users\GTIM\Desktop\my UT\7mo Cuatri\Programacion de app\2do parcial\Estructural_Decorator\obj\Debug\Estructural_Decorator.pdb

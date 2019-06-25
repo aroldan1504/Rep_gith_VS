@@ -1,0 +1,7 @@
+C:\Users\GTIM\Desktop\my UT\7mo Cuatri\Programacion de app\2do parcial\Creacional_abtract_factory\obj\Debug\Creacional_abtract_factory.csprojAssemblyReference.cache
+C:\Users\GTIM\Desktop\my UT\7mo Cuatri\Programacion de app\2do parcial\Creacional_abtract_factory\obj\Debug\Creacional_abtract_factory.csproj.CoreCompileInputs.cache
+C:\Users\GTIM\Desktop\my UT\7mo Cuatri\Programacion de app\2do parcial\Creacional_abtract_factory\bin\Debug\Creacional_abtract_factory.exe.config
+C:\Users\GTIM\Desktop\my UT\7mo Cuatri\Programacion de app\2do parcial\Creacional_abtract_factory\bin\Debug\Creacional_abtract_factory.exe
+C:\Users\GTIM\Desktop\my UT\7mo Cuatri\Programacion de app\2do parcial\Creacional_abtract_factory\bin\Debug\Creacional_abtract_factory.pdb
+C:\Users\GTIM\Desktop\my UT\7mo Cuatri\Programacion de app\2do parcial\Creacional_abtract_factory\obj\Debug\Creacional_abtract_factory.exe
+C:\Users\GTIM\Desktop\my UT\7mo Cuatri\Programacion de app\2do parcial\Creacional_abtract_factory\obj\Debug\Creacional_abtract_factory.pdb

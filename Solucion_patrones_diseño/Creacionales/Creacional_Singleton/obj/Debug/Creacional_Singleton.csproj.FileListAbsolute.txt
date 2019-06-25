@@ -1,0 +1,7 @@
+C:\Users\GTIM\Desktop\my UT\7mo Cuatri\Programacion de app\2do parcial\Creacional_Singleton\bin\Debug\Creacional_Singleton.exe.config
+C:\Users\GTIM\Desktop\my UT\7mo Cuatri\Programacion de app\2do parcial\Creacional_Singleton\bin\Debug\Creacional_Singleton.exe
+C:\Users\GTIM\Desktop\my UT\7mo Cuatri\Programacion de app\2do parcial\Creacional_Singleton\bin\Debug\Creacional_Singleton.pdb
+C:\Users\GTIM\Desktop\my UT\7mo Cuatri\Programacion de app\2do parcial\Creacional_Singleton\obj\Debug\Creacional_Singleton.csprojAssemblyReference.cache
+C:\Users\GTIM\Desktop\my UT\7mo Cuatri\Programacion de app\2do parcial\Creacional_Singleton\obj\Debug\Creacional_Singleton.csproj.CoreCompileInputs.cache
+C:\Users\GTIM\Desktop\my UT\7mo Cuatri\Programacion de app\2do parcial\Creacional_Singleton\obj\Debug\Creacional_Singleton.exe
+C:\Users\GTIM\Desktop\my UT\7mo Cuatri\Programacion de app\2do parcial\Creacional_Singleton\obj\Debug\Creacional_Singleton.pdb

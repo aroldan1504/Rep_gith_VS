@@ -1,0 +1,7 @@
+C:\Users\GTIM\source\repos\Comportamiento_Iterator\bin\Debug\Comportamiento_Iterator.exe.config
+C:\Users\GTIM\source\repos\Comportamiento_Iterator\bin\Debug\Comportamiento_Iterator.exe
+C:\Users\GTIM\source\repos\Comportamiento_Iterator\bin\Debug\Comportamiento_Iterator.pdb
+C:\Users\GTIM\source\repos\Comportamiento_Iterator\obj\Debug\Comportamiento_Iterator.csprojAssemblyReference.cache
+C:\Users\GTIM\source\repos\Comportamiento_Iterator\obj\Debug\Comportamiento_Iterator.csproj.CoreCompileInputs.cache
+C:\Users\GTIM\source\repos\Comportamiento_Iterator\obj\Debug\Comportamiento_Iterator.exe
+C:\Users\GTIM\source\repos\Comportamiento_Iterator\obj\Debug\Comportamiento_Iterator.pdb

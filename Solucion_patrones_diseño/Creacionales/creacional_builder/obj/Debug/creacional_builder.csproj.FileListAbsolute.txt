@@ -1,0 +1,7 @@
+C:\Users\GTIM\Desktop\my UT\7mo Cuatri\Programacion de app\2do parcial\creacional_builder\obj\Debug\creacional_builder.csprojAssemblyReference.cache
+C:\Users\GTIM\Desktop\my UT\7mo Cuatri\Programacion de app\2do parcial\creacional_builder\obj\Debug\creacional_builder.csproj.CoreCompileInputs.cache
+C:\Users\GTIM\Desktop\my UT\7mo Cuatri\Programacion de app\2do parcial\creacional_builder\bin\Debug\creacional_builder.exe.config
+C:\Users\GTIM\Desktop\my UT\7mo Cuatri\Programacion de app\2do parcial\creacional_builder\bin\Debug\creacional_builder.exe
+C:\Users\GTIM\Desktop\my UT\7mo Cuatri\Programacion de app\2do parcial\creacional_builder\bin\Debug\creacional_builder.pdb
+C:\Users\GTIM\Desktop\my UT\7mo Cuatri\Programacion de app\2do parcial\creacional_builder\obj\Debug\creacional_builder.exe
+C:\Users\GTIM\Desktop\my UT\7mo Cuatri\Programacion de app\2do parcial\creacional_builder\obj\Debug\creacional_builder.pdb
